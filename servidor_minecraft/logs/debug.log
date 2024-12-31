@@ -2909,3 +2909,67 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [31Dec2024 23:44:07.944] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=36, y=84, z=254}
 [31Dec2024 23:44:07.999] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=36, y=85, z=254}
 [31Dec2024 23:44:08.899] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=36, y=85, z=254}
+[31Dec2024 23:45:00.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanesproten21 was slain by Zombie
+[31Dec2024 23:45:12.312] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=34, y=83, z=252}
+[31Dec2024 23:45:12.458] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=34, y=83, z=253}
+[31Dec2024 23:45:13.749] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=34, y=83, z=252}
+[31Dec2024 23:45:14.414] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=34, y=83, z=252}
+[31Dec2024 23:45:15.046] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=34, y=83, z=252}
+[31Dec2024 23:45:15.654] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Dec2024 23:45:15.663] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Dec2024 23:45:15.702] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=34, y=83, z=252}
+[31Dec2024 23:45:16.371] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=34, y=83, z=252}
+[31Dec2024 23:45:17.024] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=34, y=83, z=252}
+[31Dec2024 23:45:17.644] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=34, y=83, z=252}
+[31Dec2024 23:45:18.308] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=34, y=83, z=252}
+[31Dec2024 23:45:18.949] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=34, y=83, z=252}
+[31Dec2024 23:45:20.750] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=33, y=82, z=252}
+[31Dec2024 23:45:20.848] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=33, y=83, z=253}
+[31Dec2024 23:45:22.311] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=33, y=82, z=253}
+[31Dec2024 23:45:23.941] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=34, y=82, z=253}
+[31Dec2024 23:45:24.590] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=34, y=82, z=253}
+[31Dec2024 23:45:25.216] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=33, y=83, z=253}
+[31Dec2024 23:45:28.806] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=34, y=82, z=253}
+[31Dec2024 23:45:29.454] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=34, y=82, z=253}
+[31Dec2024 23:45:29.626] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=34, y=83, z=253}
+[31Dec2024 23:45:54.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juanesproten21: Set Alan777's game mode to Creative Mode]
+[31Dec2024 23:45:54.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juanesproten21: Set own game mode to Creative Mode]
+[31Dec2024 23:46:36.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juanesproten21: Set Alan777's game mode to Survival Mode]
+[31Dec2024 23:46:36.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juanesproten21: Set own game mode to Survival Mode]
+[31Dec2024 23:46:44.895] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=37, y=85, z=258}
+[31Dec2024 23:46:45.849] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=36, y=84, z=258}
+[31Dec2024 23:46:45.944] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=36, y=84, z=258}
+[31Dec2024 23:46:46.011] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=36, y=85, z=258}
+[31Dec2024 23:46:46.248] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=36, y=85, z=258}
+[31Dec2024 23:46:48.701] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=37, y=86, z=257}
+[31Dec2024 23:46:48.896] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=37, y=86, z=257}
+[31Dec2024 23:47:18.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alan777 was blown up by Creeper
+[31Dec2024 23:47:20.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanesproten21 was doomed to fall by Zombie
+[31Dec2024 23:47:24.468] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=27, y=77, z=249}
+[31Dec2024 23:47:24.628] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=27, y=77, z=250}
+[31Dec2024 23:47:26.353] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=29, y=79, z=248}
+[31Dec2024 23:47:26.433] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=28, y=79, z=249}
+[31Dec2024 23:48:08.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alan777 was slain by juanesproten21
+[31Dec2024 23:48:14.850] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=39, y=82, z=255}
+[31Dec2024 23:48:14.951] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=39, y=82, z=254}
+[31Dec2024 23:48:29.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanesproten21 drowned whilst trying to escape Skeleton
+[31Dec2024 23:48:47.877] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=36, y=72, z=253}
+[31Dec2024 23:48:55.504] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=39, y=70, z=251}
+[31Dec2024 23:48:57.106] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=37, y=72, z=251}
+[31Dec2024 23:48:57.201] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=38, y=72, z=251}
+[31Dec2024 23:49:00.301] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=38, y=72, z=251}
+[31Dec2024 23:49:03.154] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=37, y=72, z=251}
+[31Dec2024 23:49:04.399] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=37, y=72, z=251}
+[31Dec2024 23:49:05.646] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=37, y=72, z=251}
+[31Dec2024 23:49:06.915] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=37, y=72, z=251}
+[31Dec2024 23:49:07.051] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=38, y=72, z=251}
+[31Dec2024 23:49:13.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alan777 was slain by Zombie
+[31Dec2024 23:49:22.046] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=36, y=69, z=265}
+[31Dec2024 23:49:46.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanesproten21 was slain by Zombie
+[31Dec2024 23:50:15.655] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Dec2024 23:50:15.707] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Dec2024 23:50:22.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alan777 was slain by Zombie
+[31Dec2024 23:51:51.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juanesproten21: Made juanesproten21 no longer a server operator]
+[31Dec2024 23:51:57.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alan777 was slain by Zombie
+[31Dec2024 23:52:38.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alan777 was slain by juanesproten21
+[31Dec2024 23:53:10.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanesproten21 was slain by Alan777
