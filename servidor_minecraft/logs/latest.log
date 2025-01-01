@@ -3,3 +3,8 @@
 [01Jan2025 00:07:19.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanesproten21 has made the advancement [Suit Up]
 [01Jan2025 00:07:48.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanesproten21 has made the advancement [Isn't It Iron Pick]
 [01Jan2025 00:14:29.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alan777 was slain by juanesproten21
+[01Jan2025 00:25:26.542] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanesproten21 lost connection: Timed out
+[01Jan2025 00:25:26.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanesproten21 left the game
+[01Jan2025 00:25:35.039] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3bfce5dc[id=<null>,name=juanesproten21,properties={},legacy=false] (/[::1]:38022) lost connection: Timed out
+[01Jan2025 00:25:36.612] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: juanesproten21[/[::1]:46740] logged in with entity id 8120 at (234.17064399714363, 57.0, 240.49444763951584)
+[01Jan2025 00:25:36.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanesproten21 joined the game
