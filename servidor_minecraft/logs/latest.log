@@ -25,3 +25,6 @@
 [01Jan2025 01:19:51.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanesproten21 joined the game
 [01Jan2025 01:23:11.389] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alan777 lost connection: Timed out
 [01Jan2025 01:23:11.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alan777 left the game
+[01Jan2025 01:27:31.547] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Alan777[/[::1]:36042] logged in with entity id 16163 at (282.92796785291574, 63.0, 261.37806823362166)
+[01Jan2025 01:27:31.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alan777 joined the game
+[01Jan2025 01:34:08.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alan777 was slain by juanesproten21
