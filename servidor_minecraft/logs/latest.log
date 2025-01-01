@@ -8,3 +8,12 @@
 [01Jan2025 00:25:35.039] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3bfce5dc[id=<null>,name=juanesproten21,properties={},legacy=false] (/[::1]:38022) lost connection: Timed out
 [01Jan2025 00:25:36.612] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: juanesproten21[/[::1]:46740] logged in with entity id 8120 at (234.17064399714363, 57.0, 240.49444763951584)
 [01Jan2025 00:25:36.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanesproten21 joined the game
+[01Jan2025 01:04:12.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanesproten21 has made the advancement [Not Today, Thank You]
+[01Jan2025 01:06:24.640] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanesproten21 lost connection: Timed out
+[01Jan2025 01:06:24.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanesproten21 left the game
+[01Jan2025 01:06:42.144] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jerje[/[::1]:55050] logged in with entity id 13315 at (28.5, 83.0, 266.5)
+[01Jan2025 01:06:42.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jerje joined the game
+[01Jan2025 01:08:26.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jerje was shot by Skeleton
+[01Jan2025 01:11:20.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alan777 has made the advancement [Monster Hunter]
+[01Jan2025 01:12:42.689] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jerje lost connection: Timed out
+[01Jan2025 01:12:42.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jerje left the game
