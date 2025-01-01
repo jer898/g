@@ -17,3 +17,11 @@
 [01Jan2025 01:11:20.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alan777 has made the advancement [Monster Hunter]
 [01Jan2025 01:12:42.689] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jerje lost connection: Timed out
 [01Jan2025 01:12:42.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jerje left the game
+[01Jan2025 01:18:22.894] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jerje[/[::1]:49576] logged in with entity id 14992 at (30.83800182581511, 75.0, 269.69999998807907)
+[01Jan2025 01:18:22.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jerje joined the game
+[01Jan2025 01:19:08.041] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jerje lost connection: Timed out
+[01Jan2025 01:19:08.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jerje left the game
+[01Jan2025 01:19:51.852] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: juanesproten21[/[::1]:43846] logged in with entity id 15315 at (283.11244055916757, 63.0, 272.0322123371045)
+[01Jan2025 01:19:51.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanesproten21 joined the game
+[01Jan2025 01:23:11.389] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alan777 lost connection: Timed out
+[01Jan2025 01:23:11.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alan777 left the game

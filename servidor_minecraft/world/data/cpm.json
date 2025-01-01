@@ -17,19 +17,7 @@
       "stepHeight": 1.0,
       "asp": 1.0
     },
-    "41bce744-a30e-3af4-bb26-6208192d812e": {
-      "flight": 1.0,
-      "mob_vis": 1.0,
-      "motion": 1.0,
-      "defense": 1.0,
-      "reach": 1.0,
-      "attack": 1.0,
-      "akb": 1.0,
-      "health": 1.0,
-      "kbr": 1.0,
-      "stepHeight": 1.0,
-      "asp": 1.0
-    },
+    "41bce744-a30e-3af4-bb26-6208192d812e": {},
     "3413eaf5-67ad-3e30-9e24-1b1c33ae517e": {
       "flight": 1.0,
       "mob_vis": 1.0,
