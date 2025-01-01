@@ -2990,3 +2990,7 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [01Jan2025 00:10:15.652] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [01Jan2025 00:10:15.658] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [01Jan2025 00:14:29.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alan777 was slain by juanesproten21
+[01Jan2025 00:15:15.663] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jan2025 00:15:15.671] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jan2025 00:20:15.651] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jan2025 00:20:15.658] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
